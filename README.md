@@ -1,11 +1,11 @@
-# npm-package-template
+# compass-heading-js
 
-[![npm version](https://badge.fury.io/js/npm-package-template.svg)](https://badge.fury.io/js/npm-package-template)
+[![npm version](https://badge.fury.io/js/compass-heading-js.svg)](https://badge.fury.io/js/compass-heading-js)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 ## Overview
 
-Minimum configuration template for publishing packages to npm.
+Converts device orientation to compass heading.
 
 ## Notes
 
@@ -14,7 +14,7 @@ Minimum configuration template for publishing packages to npm.
 You can install this library using npm:
 
 ```shell
-npm install npm-package-template
+npm install compass-heading-js
 ```
 
 ## Usage

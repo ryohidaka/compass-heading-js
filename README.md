@@ -7,8 +7,6 @@
 
 Converts device orientation to compass heading.
 
-## Notes
-
 ## Installation
 
 You can install this library using npm:
@@ -17,9 +15,27 @@ You can install this library using npm:
 npm install compass-heading-js
 ```
 
+## Props
+
+| key   | descriptiion                    |
+| ----- | ------------------------------- |
+| alpha | The device's compass heading    |
+| beta  | the device's tilt front-to-back |
+| gamma | the device's tilt left-to-right |
+
 ## Usage
 
-## Link
+```typescript
+import { calculateCompassHeading } from "compass-heading-js";
+
+const alpha = 45;
+const beta = 30;
+const gamma = 60;
+
+const heading = calculateCompassHeading(alpha, beta, gamma);
+console.log(heading);
+// Output: 260.76847951640775
+```
 
 ## License
 

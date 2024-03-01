@@ -1,6 +1,6 @@
 {
   "name": "compass-heading-js",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "description": "Converts device orientation to compass heading.",
   "keywords": [
     "compass",

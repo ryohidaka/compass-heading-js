@@ -1,3 +1,9 @@
+> [!CAUTION]
+> This repository has been archived.
+> Please use the following repository instead, which provides similar functionality:
+>
+> [compass-ts](https://github.com/ryohidaka/compass-ts)
+
 # compass-heading-js
 
 [![npm version](https://badge.fury.io/js/compass-heading-js.svg)](https://badge.fury.io/js/compass-heading-js)
